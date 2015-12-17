@@ -7,8 +7,10 @@ These are sample code files to accompany the book “Interactive Data Visualizat
 - [Author’s website](http://alignedleft.com/)
 
 ### Examples
-
+- scatter_chart http://data-journalism.github.io/d3-book/chapter_09/20_axes_dynamic.html
+- scatter_combo http://data-journalism.github.io/d3-book/chapter_09/22_each_combo_transition.html
 - 02_bar_chart_with_scales http://data-journalism.github.io/d3-book/chapter_09/02_bar_chart_with_scales.html
+- 29_dynamic_labels http://data-journalism.github.io/d3-book/chapter_09/29_dynamic_labels.html
 - 01_pie http://data-journalism.github.io/d3-book/chapter_11/01_pie.html
 - 02_ring http://data-journalism.github.io/d3-book/chapter_11/02_ring.html
 - 03_stacked_bar http://data-journalism.github.io/d3-book/chapter_11/03_stacked_bar.html
