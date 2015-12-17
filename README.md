@@ -6,7 +6,18 @@ These are sample code files to accompany the book “Interactive Data Visualizat
 - [Online version with inline examples](http://chimera.labs.oreilly.com/books/1230000000345)
 - [Author’s website](http://alignedleft.com/)
 
+### Examples
 
+- 02_bar_chart_with_scales http://data-journalism.github.io/d3-book/chapter_09/02_bar_chart_with_scales.html
+- 01_pie http://data-journalism.github.io/d3-book/chapter_11/01_pie.html
+- 02_ring http://data-journalism.github.io/d3-book/chapter_11/02_ring.html
+- 03_stacked_bar http://data-journalism.github.io/d3-book/chapter_11/03_stacked_bar.html
+- 04_force http://data-journalism.github.io/d3-book/chapter_11/04_force.html
+- Geojson
+  - 04_fill http://data-journalism.github.io/d3-book/chapter_12/04_fill.html
+  - 05_choropleth  http://data-journalism.github.io/d3-book/chapter_12/05_choropleth.html
+  - 07_points_sized  http://data-journalism.github.io/d3-book/chapter_12/07_points_sized.html
+  - 09_mercator http://data-journalism.github.io/d3-book/chapter_12/09_mercator.html
 
 ### Version
 
