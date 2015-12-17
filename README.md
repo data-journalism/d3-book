@@ -7,6 +7,7 @@ These are sample code files to accompany the book “Interactive Data Visualizat
 - [Author’s website](http://alignedleft.com/)
 
 ### Examples
+- scatter_plot http://data-journalism.github.io/d3-book/chapter_07/07_scaled_plot_large.html
 - scatter_chart http://data-journalism.github.io/d3-book/chapter_09/20_axes_dynamic.html
 - scatter_combo http://data-journalism.github.io/d3-book/chapter_09/22_each_combo_transition.html
 - 02_bar_chart_with_scales http://data-journalism.github.io/d3-book/chapter_09/02_bar_chart_with_scales.html
